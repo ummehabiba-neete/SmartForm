@@ -11,4 +11,10 @@
 	display:none;
 
 }
- 
+.question
+{display:none;
+ }
+#welcome{
+
+	display:block;
+}
